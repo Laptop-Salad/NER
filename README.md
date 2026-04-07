@@ -17,9 +17,19 @@ The overall system, should include
 •	The control the use will have over the system setup/operation.
 •	Any additional information of relevance to the system overall, e.g legal, privacy or other considerations
 
-## Nodes
+## Node Design Docs
 - [Station Edge Node 1](Nodes/Station_1/md)
 - [Station Edge Node 2](Nodes/Station_2.md)
 - [Train Edge Node](Nodes/Train.md)
 - [Occupancy Edge Node](Nodes/Occupancy.md)
 - [Sink/Gateway Edge Node](Nodes/Gateway.md)
+
+# Setup Guide and Demonstration (700 w)
+
+## Individual Node Setup Instructions
+- [Station Edge Node 1](Setup/node_station_1_stup.md)
+- [Station Edge Node 2](Setup/node_station_2_stup.md)
+- [Train Edge Node](Setup/node_train_stup.md)
+- [Occupancy Edge Node](Setup/node_occupancy_stup.md)
+- [Sink/Gateway Edge Node](Setup/node_gateway_stup.md)
+
