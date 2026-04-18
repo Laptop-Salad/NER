@@ -1,3 +1,6 @@
+Team: Cypress
+Team members: Amanda Wallis, Amina Ndiaye Gaye, Wiktoria Bardzik and Keiko Hisana Azka.
+
 # System Description (300 w)
 An automated tram system can boost the economy by reducing congestion, increase the value of surrounding land,
 and encourage the development of new businesses. This supports UN's SDG 11 to make cities and human settlements
